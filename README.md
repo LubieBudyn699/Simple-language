@@ -9,4 +9,4 @@ Simple takes your clean, straightforward script, translates it line-by-line into
 Instead of writing complex boilerplates, in **Simple** you just write what you want to achieve:
 
 ```simple
-say("Dziala, ja pierdole!")
+say("It's simple :)")
